@@ -1,16 +1,8 @@
 # DeepVinci
 
-- 👋 Hi, I’m @deep-vinci
-- 📫 [Discord](https://discordapp.com/users/808612605689069628) to reach me ...
-- Check out my little [personal site](https://deep-vinci.github.io/)
+Hi there, this is a GitHub account of DeepVinci.
 
+You may find me in other places:
 
-<!---- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-deep-vinci/deep-vinci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Personal Site](https://deep-vinci.github.io/)
+- [Discord](https://discordapp.com/users/808612605689069628)
