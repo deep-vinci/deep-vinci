@@ -1,7 +1,6 @@
-# DeepVinci
-
-Hi there, this is a GitHub account of DeepVinci.
-
-You may find me in other places:
-
-- [Discord](https://discordapp.com/users/808612605689069628)
+<p align="center">
+  <samp>
+    <a href="https://deepvinci.now.sh">me</a> .
+    <a href="https://discordapp.com/users/808612605689069628">discord</a> .
+  </samp>
+</p>
