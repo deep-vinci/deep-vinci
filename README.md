@@ -11,7 +11,7 @@
 </p>
 
 <samp>
-  Languages I use
+  Languages I am familiar with
 </samp>
 
 <p align="center">
