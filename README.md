@@ -1,3 +1,7 @@
+<samp>
+  About me
+</samp>
+
 <p align="center">
   <samp>
     <a href="https://deepvinci.now.sh">me</a> .
@@ -5,3 +9,16 @@
     <a href="https://goodreads.com/deepvinci">goodreads</a> 
   </samp>
 </p>
+
+<samp>
+  Languages I use
+</samp>
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AJavaScript&type=repositories">Javascript</a> .
+    <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AJava&type=repositories">Java</a> .
+    <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3Acpp&type=repositories">C++</a> 
+  </samp>
+</p>
+
