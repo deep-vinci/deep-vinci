@@ -1,5 +1,5 @@
 <samp>
-  About me
+  about me
 </samp>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <samp>
-  Languages I am familiar with
+  languages i am familiar with
 </samp>
 
 <p align="center">
