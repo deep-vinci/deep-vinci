@@ -1,3 +1,5 @@
+![](assets/image.png)
+
 <samp>
   about me
 </samp>
