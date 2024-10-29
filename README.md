@@ -1,7 +1,7 @@
 ![](assets/image3.png)
 
 <samp>
-  about me
+  links
 </samp>
 
 <p align="center">
