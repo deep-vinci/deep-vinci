@@ -46,7 +46,7 @@
   <samp>
     linux .
     vim .
-    vpotoshop / gimp
+    photoshop / gimp
   </samp>
 </p>
 
