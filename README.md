@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    cs student and a novel enthusiast
+    cs student and a book enthusiast
   </samp>
 </p>
 
