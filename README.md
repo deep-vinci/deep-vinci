@@ -1,4 +1,4 @@
-![](assets/image3.png)
+![](assets/banner-image.png)
 
 <samp>
   about.user
