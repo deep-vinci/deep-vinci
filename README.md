@@ -1,7 +1,17 @@
-![](assets/image3.png)
+![](assets/banner-image.png)
 
 <samp>
-  links
+  about.user
+</samp>
+
+<p align="center">
+  <samp>
+    cs student and a book enthusiast
+  </samp>
+</p>
+
+<samp>
+  about.links
 </samp>
 
 <p align="center">
@@ -13,7 +23,7 @@
 </p>
 
 <samp>
-  languages i am familiar with
+  skills.language
 </samp>
 
 <p align="center">
@@ -28,7 +38,24 @@
   </samp>
 </p>
 
+<<<<<<< HEAD
 
 <samp>
   ![](assets/demo.png)
 </samp>
+=======
+<samp>
+  skills.tools
+</samp>
+
+<p align="center">
+  <samp>
+    linux .
+    vim .
+    photoshop / gimp
+  </samp>
+</p>
+
+
+
+>>>>>>> 043183385d788da63c895af788fc576052bd5db8
