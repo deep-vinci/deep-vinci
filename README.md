@@ -38,24 +38,7 @@
   </samp>
 </p>
 
-<<<<<<< HEAD
 
 <samp>
   ![](assets/demo.png)
 </samp>
-=======
-<samp>
-  skills.tools
-</samp>
-
-<p align="center">
-  <samp>
-    linux .
-    vim .
-    photoshop / gimp
-  </samp>
-</p>
-
-
-
->>>>>>> 043183385d788da63c895af788fc576052bd5db8
