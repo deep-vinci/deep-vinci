@@ -1,17 +1,7 @@
 ![](assets/banner-image.png)
 
 <samp>
-  about.user
-</samp>
-
-<p align="center">
-  <samp>
-    cs student and a book enthusiast
-  </samp>
-</p>
-
-<samp>
-  about.links
+  links
 </samp>
 
 <p align="center">
@@ -23,7 +13,7 @@
 </p>
 
 <samp>
-  skills.language
+  languages i am familiar with
 </samp>
 
 <p align="center">
@@ -38,7 +28,6 @@
   </samp>
 </p>
 
-
-<samp>
-  ![](assets/demo.png)
-</samp>
+<p align="center">
+  <img src="assets/visit-count.png" width="150px"/>
+</p>
