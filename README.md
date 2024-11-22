@@ -1,7 +1,17 @@
 ![](assets/banner-image.png)
 
 <samp>
-  links
+  about.user
+</samp>
+
+<p align="center">
+  <samp>
+    cs student and a novel enthusiast
+  </samp>
+</p>
+
+<samp>
+  about.links
 </samp>
 
 <p align="center">
@@ -13,7 +23,7 @@
 </p>
 
 <samp>
-  languages i am familiar with
+  skills.language
 </samp>
 
 <p align="center">
@@ -27,6 +37,19 @@
     <a href="https://github.com/search?q=owner%3Adeep-vinci++language%3ASvelte&type=repositories">Svelte</a> 
   </samp>
 </p>
+
+<samp>
+  skills.tools
+</samp>
+
+<p align="center">
+  <samp>
+    linux .
+    vim .
+    photoshop / gimp
+  </samp>
+</p>
+
 
 <p align="center">
   <img src="assets/visit-count.png" width="150px"/>
