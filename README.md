@@ -34,7 +34,8 @@
     <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AC&type=repositories">C</a> .
     <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AShell&type=repositories">Shell</a> .
     <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AShell&type=repositories">Bash</a> .
-    <a href="https://github.com/search?q=owner%3Adeep-vinci++language%3ASvelte&type=repositories">Svelte</a> 
+    <a href="https://github.com/search?q=owner%3Adeep-vinci++language%3ASvelte&type=repositories">Svelte</a> .
+    <a href="https://github.com/search?q=owner%3Adeep-vinci++language%3AYaml&type=repositories">Yaml</a> 
   </samp>
 </p>
 
