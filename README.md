@@ -27,7 +27,8 @@
 </samp>
 
 <p align="center">
-  <samp>
+  <samp>    
+    <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3ATypeScript&type=repositories">TypeScript</a> .
     <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AJavaScript&type=repositories">Javascript</a> .
     <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3AJava&type=repositories">Java</a> .
     <a href="https://github.com/search?q=owner%3Adeep-vinci+language%3Acpp&type=repositories">C++</a> .
