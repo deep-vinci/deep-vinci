@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-    Past 365 days contributions.
+    <samp>Past 365 days contributions.</samp>
 </p>
 
 <!--
