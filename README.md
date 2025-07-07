@@ -60,5 +60,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/visit-count.png" width="150px"/>
+    Past 365 days contributions.
 </p>
+
+<!--
+<p align="center">
+  <img src="assets/visit-count.png" width="150px"/>
+</p> -->
