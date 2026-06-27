@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-    <samp><a href="https://gitview.deepvinci.me">~ past 365 days contributions ~</a></samp>
+    <samp><a href="https://gitview.dvinci.tech">~ past 365 days contributions ~</a></samp>
 </p>
 
 <!--
